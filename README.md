@@ -1,4 +1,7 @@
 # PasteJS
 a chrome extension to prevent pastejacking.
 
-noodles
+just another shitty chrome extension...
+was made just so i get into javascript
+
+n00dl3s
