@@ -1,7 +1,6 @@
 # PasteJS
 a chrome extension to prevent pastejacking.
 
-just another shitty chrome extension...
-was made just so i get into javascript
+*only use it during coding/programmin', because it limits your browsing experience*
 
 n00dl3s
