@@ -1,6 +1,14 @@
 # PasteJS
 a chrome extension to prevent pastejacking.
 
-*only use it during coding/programmin', because it limits your browsing experience*
+this prevents both CSS & JS pasteJacking attacks
+you also have the option to block iframes
 
-rushed spaghetti code
+*only use it during coding/programming, because it limits your browsing experience*
+
+## demo
+![image](others/mario.gif)
+
+### rushed spaghetti code
+
+
